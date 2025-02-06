@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+#accio {
+	width:150px;
+	height:150px;
+	backdrop-color:black(#000000);
+}
+p{
+	color:white(#ffffff);
+	left-margin:32px;
+	padding:10px 10px 10px 10px;
+}
+
+
+
+
+
+
+	
