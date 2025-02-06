@@ -3,12 +3,12 @@
 main.accio#job {
 	width:150px;
 	height:150px;
-	backdrop-color:rgb(0,0,0);
+	background-color:rgb(0,0,0);
 }
 p.hello-accio{
 	color: rgb(255,255,255);
-	left-margin:32px;
-	padding:10px 10px 10px 10px;
+	 margin-left:32px;
+	padding:10px;
 }
 
 
